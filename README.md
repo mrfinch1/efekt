@@ -1,0 +1,2 @@
+# efekt
+pillow şeysini kullandım 
